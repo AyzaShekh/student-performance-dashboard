@@ -51,7 +51,7 @@ The dashboard provides insights into student performance trends using various vi
 
 ## Dashboard Preview
 
-![Dashboard Preview]("C:\student-performance-dashboard\visuals\Screenshot 2026-06-03 230654.png")
+![Dashboard Preview]("\visuals\Screenshot 2026-06-03 230654.png")
 
 ## Project Structure
 
